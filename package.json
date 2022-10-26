@@ -1,0 +1,24 @@
+{
+  "name": "cursoasincronismo",
+  "version": "1.0.0",
+  "description": "parte del curso de asincronismo de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBlackEaglex/cursoAsincronismo.git"
+  },
+  "keywords": [
+    "javascript",
+    "JS",
+    "Node"
+  ],
+  "author": "Roberto Vazquez <roberto_smusic@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xBlackEaglex/cursoAsincronismo/issues"
+  },
+  "homepage": "https://github.com/xBlackEaglex/cursoAsincronismo#readme"
+}
